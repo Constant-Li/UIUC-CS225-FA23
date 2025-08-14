@@ -1,4 +1,4 @@
-# CS 225: Data Structures (UIUC, Fall 2025)
+# CS 225: Data Structures (UIUC, Fall 2023)
 
 This repo contains my labs, machine problems for **CS 225: Data Structures** at the University of Illinois Urbana-Champaign.
 
