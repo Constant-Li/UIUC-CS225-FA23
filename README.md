@@ -1,6 +1,6 @@
 # CS 225: Data Structures (UIUC, Fall 2025)
 
-This repo contains my labs, machine problems, and notes for **CS 225: Data Structures** at the University of Illinois Urbana-Champaign.
+This repo contains my labs, machine problems for **CS 225: Data Structures** at the University of Illinois Urbana-Champaign.
 
 **Topics Covered:**
 - C++ programming (classes, pointers, memory management, templates)
@@ -11,4 +11,6 @@ This repo contains my labs, machine problems, and notes for **CS 225: Data Struc
 **Instructor:** Brad R. Solomon  
 **Official site:** [https://courses.grainger.illinois.edu/cs225/](https://courses.grainger.illinois.edu/cs225/)
 
-> ⚠️ For personal reference only. Do not copy if currently enrolled.
+> ⚠️ **Disclaimer:** These materials are for personal reference only.  
+> Do not copy or submit them for coursework.  
+> I am not responsible for any academic misconduct resulting from misuse of this repository.
